@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+}
+.f-color1{
+  background-color: #C9CFC2;
+}
+.f-color2{
+  background-color: #A8B49E;
+}
+.main-l{
+  margin-left: 6rem;
+  color: black;
+}
+.main-l i{
+  color: darkgray;
+}
+.main-l hr{
+  width: 15rem;
+  margin-left: 0;
+}
+.main-l span{
+  margin-right: 1rem;
+}
+.h-1{
+  display: flex;
+  align-items: center;
+  gap: 20rem;
+  background-image: url('./images/home-imgs/img-2.jpg');
+  background-position: center;
+  background-size: cover;
+}
+.order-btn button{
+  background-color: red;
+  color: white;
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 1rem;
+  width: 15rem;
+  font-size: 2rem;
+  font-weight: bold;
+}
